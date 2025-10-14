@@ -24,7 +24,8 @@ docker run -d --name mysql -p 3306:3306 mysql:latest
 ```
 docker ps
 ```
-El contenedor no está ejecutándose.
+El contenedor no está ejecutándose.  
+
 <img width="643" height="44" alt="docker ps" src="https://github.com/user-attachments/assets/17d68108-a68b-40d2-96de-e1c631d4a759" />
 
 
